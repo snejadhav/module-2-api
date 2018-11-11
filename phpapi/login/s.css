@@ -1,0 +1,92 @@
+
+ 
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+
+background-image: url("../img/p1.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+font-size: 120%;
+ }
+
+
+form, .content {
+  width: 45%;
+  height: 60px;
+  margin-top: 850px;
+  margin-bottom: 16px;
+  margin: 0px auto;
+  
+  opacity: 0.8;
+  
+ 
+ 
+  border-radius: 10px 10px 0px 10px;
+}
+
+.card-body{
+height: 530px;
+
+width: 560px;
+margin-top:15px;
+margin-bottom:140px;
+margin-right: 150px;
+margin-left: 450px;
+
+background-color: rgba(0,0,0,0.5);
+}
+
+.header h2{
+  
+color: white;
+margin-left:220px;
+
+
+
+}
+.input-group {
+  margin: 5px 15px 13px 0px;
+}
+
+.input-group input,label {
+  height: 40px;
+  width: 126%;
+  font-size: 20px;
+  border-radius: 5px;
+  padding:8px;
+
+}
+.input-group label{
+  color:white;
+}
+
+.btn {
+  margin-top: -5px;
+  margin-left: 85px;
+  padding: 10px;
+  font-size: 25px;
+  background: yellow;
+  border: none;
+  border-radius: 5px;
+}
+.error {
+  width: 92%; 
+  margin: 0px auto; 
+  padding: 10px; 
+  border: 1px solid #a94442; 
+  color: #a94442; 
+  background: #f2dede; 
+  border-radius: 5px; 
+  text-align: left;
+}
+.success {
+  color: #3c763d; 
+  background: #dff0d8; 
+  border: 1px solid #3c763d;
+  margin-bottom: 20px;
+}
